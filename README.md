@@ -1,0 +1,1 @@
+This project is for making classification over kaggle https://www.kaggle.com/datasets/apollo2506/facial-recognition-dataset dataset. For now, it is still at deployment, but several experiments are going to be there such as own model structure with regularization methods, transfer learning and essences from classical cnn algorithms
